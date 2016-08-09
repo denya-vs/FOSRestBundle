@@ -20,7 +20,7 @@ QueryParam
      *   default=null,
      *   description="",
      *   strict=false,
-     *   array=false,
+     *   map=false,
      *   nullable=false
      * )
      */
